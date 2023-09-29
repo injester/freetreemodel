@@ -1,8 +1,10 @@
 # Creating a Tree in 3 Minutes
 
-Watch this quick video tutorial to learn how to create a tree in just 3 minutes using simple techniques:
-
-[![Watch the video](https://img.youtube.com/vi/lnD97-SBR0k/0.jpg)](https://youtu.be/lnD97-SBR0k)
+<div style="text-align:center;">
+  <a href="https://youtu.be/lnD97-SBR0k">
+    <img src="https://img.youtube.com/vi/lnD97-SBR0k/0.jpg" alt="Watch the video" />
+  </a>
+</div>
 
 In this tutorial, I demonstrate step-by-step instructions to create a beautiful tree in just three minutes. Whether you're a beginner or an experienced artist, you'll find this tutorial helpful and fun.
 
